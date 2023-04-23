@@ -1,3 +1,18 @@
 # Group-55-Final-Project
 final-project-repositories-ishavk1348 created by GitHub Classroom
-test 1 2
+
+### Finding Data: Dataset Sources
+
+#### Dataset #1: “Netflix Movies and TV Shows”
+##### Source Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+For our first source of data, we are using a comprehensive dataset of all Netflix movie and episodic series titles added to the platform between December 31st, 2007, and November 25th, 2021. The data table includes twelve columns with content-identifying features such as type of content (movie or television series), unique ID number, title, cast and directors, country of production, date added onto Netflix, the actual date of release, rating, and duration. It also includes 8,807 unique rows of values. For the purposes of this data analysis project, we will primarily be utilizing the columns of type of content, country of production, and date added to Netflix.
+
+We sourced this set from Kaggle, an online platform for uploading and downloading open-source datasets. It was available in a .csv (comma-separated values) format in a Microsoft Excel spreadsheet. The dataset was uploaded onto the platform by user Shivam Bansal - a certified “Datasets Grandmaster” with a rich portfolio of uploaded datasets on Kaggle - but unfortunately, there is little information available regarding who actually collected or generated the data and how it was sourced. Despite the limited source information we have, we decided to move forward with this dataset based on factors such as Shivam Bansal’s perceived credibility as a top Kaggle member and the fact that this same dataset has been used and referenced by many other users for their own data projects. 
+
+#### Dataset #2: “International Macroeconomic Dataset: Real Per-Capita GDP (2015 Base) Projected”
+##### Source Link: https://ers.usda.gov/data-products/international-macroeconomic-data-set.aspx
+
+For our second source of data, we are using an expansive dataset of annual country-specific per-capita GDP values from across the world, ranging between the years 1970 and 2032. This dataset also includes separate columns that show the year-over-year GDP growth rates for each country starting from 1971 and continuing to 2032 as before. This dataset was most recently updated on November 15th, 2022, and all GDP values between 1970 and 2022 are real observed values. GDP values from 2023 onwards are forecasted predictions based on previous growth trends and current economic conditions for each country. Each GDP value has been adjusted for inflation according to the U.S. dollar’s worth in 2015. In total, the data table includes 127 columns - one of which includes the country names, and the rest is split equally between annual per-capita GDP values and annual GDP growth rates. It also includes unique rows for 216 countries, in addition to 51 other rows that include summary statistics for specific groups or regions of countries, for 267 unique rows in total
+
+We sourced this dataset from the U.S. Department of Agriculture’s Economic Research Service via the data.gov federal website for open-source databases. It was available as a Microsoft Excel spreadsheet, but unfortunately not as a .csv file, unlike the first Netflix dataset. This collection of global GDP values over time was created to “serve as underlying assumptions for the annual USDA agricultural supply and demand projections”, and “the macroeconomic projections describe the long-term, 10-year scenario that is used as a benchmark for analyzing the impacts of alternative scenarios and macroeconomic shocks”. Although we are unsure how the USDA collected or generated the data, we are sure that a government research organization such as this would be a trustworthy and accurate data source for our project.
