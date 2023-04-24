@@ -1,6 +1,8 @@
 # Group-55-Final-Project
 final-project-repositories-ishavk1348 created by GitHub Classroom
 
+Aiman Hazmi Shamsul, Alisa Tcurko, and Isha Kshirsagar
+
 ## Netflix’s Global Content Expansion and Country-Based Economic Growth
 
 ### Story Pitch:
