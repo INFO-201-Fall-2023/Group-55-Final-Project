@@ -1,4 +1,4 @@
-# Group 55 Final Project
+# INFO 201: Group 55 Final Project Proposal
 final-project-repositories-ishavk1348 created by GitHub Classroom
 
 Aiman Hazmi Shamsul, Alisa Tcurko, and Isha Kshirsagar
