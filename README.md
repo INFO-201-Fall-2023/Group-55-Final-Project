@@ -1,7 +1,10 @@
-# Group-55-Final-Project
+# Group 55 Final Project
 final-project-repositories-ishavk1348 created by GitHub Classroom
 
 Aiman Hazmi Shamsul, Alisa Tcurko, and Isha Kshirsagar
+INFO 201 | Section AA | Spring 2023
+Group 55
+April 23, 2023
 
 ## Netflix’s Global Content Expansion and Country-Based Economic Growth
 
@@ -58,7 +61,7 @@ We sourced this dataset from the U.S. Department of Agriculture’s Economic Res
   + Netflix produces original content based on cultural preferences while also adjusting it so it might go global.
   + This article elaborates further on the strategies mentioned in the Havard Business Review article above. 
   
-##### What will Netflix do next:
+##### Netflix's Next Steps:
 * https://www.investmentmonitor.ai/features/what-will-netflix-do-next/#:~:text=From%20November%202022%2C%20Netflix%20will,giant%20would%20never%20include%20advertising.
   + Include adds to cut subscription costs in some regions
   + More global investment. Heavy push to Asia-Pacific (especially S. Korea).
@@ -69,7 +72,7 @@ We sourced this dataset from the U.S. Department of Agriculture’s Economic Res
   + Despite the backlash, Netflix is pleased with the result of the launch in  Canada, New Zealand, Spain, and Portugal earlier this year.
   + This is one of the latest articles on how Netflix will eventually do to the subscription plan. The reception from other countries could be insightful to our research and how Netflix’s business model is perceived by different countries.
   
-##### What countries produce the most popular Netflix shows:
+##### Countries With Most Netflix Content:
 * https://www.whats-on-netflix.com/news/what-countries-produce-the-most-popular-netflix-shows-and-movies/ (2020-2021)
 * https://www.whats-on-netflix.com/news/what-countries-produce-most-popular-content-for-netflix/ (2022)
   + Comparing Q4 2021 and 2022, the U.S., S. Korea, and Colombia dominated the Top 3.
@@ -86,7 +89,7 @@ We sourced this dataset from the U.S. Department of Agriculture’s Economic Res
   + European countries experience the most negative growth.
   + This website keeps up-to-date GDP growth which will be monitored as we continue our project.
   
-##### Additional info:
+##### Additional Info:
 * https://www.oxfordmartin.ox.ac.uk/publications/a-new-interpretation-of-the-economic-complexity-index/
   + Explains that GDP is influenced by ECI.
   + “(ECI) has been successful at explaining cross-country differences in GDP/capita and economic growth.”
