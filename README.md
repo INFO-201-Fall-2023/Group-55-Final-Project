@@ -2,8 +2,11 @@
 final-project-repositories-ishavk1348 created by GitHub Classroom
 
 Aiman Hazmi Shamsul, Alisa Tcurko, and Isha Kshirsagar
+
 INFO 201 | Section AA | Spring 2023
+
 Group 55
+
 April 23, 2023
 
 ## Netflix’s Global Content Expansion and Country-Based Economic Growth
@@ -34,7 +37,7 @@ For our second source of data, we are using an expansive dataset of annual count
 
 We sourced this dataset from the U.S. Department of Agriculture’s Economic Research Service via the data.gov federal website for open-source databases. It was available as a Microsoft Excel spreadsheet, but unfortunately not as a .csv file, unlike the first Netflix dataset. This collection of global GDP values over time was created to “serve as underlying assumptions for the annual USDA agricultural supply and demand projections”, and “the macroeconomic projections describe the long-term, 10-year scenario that is used as a benchmark for analyzing the impacts of alternative scenarios and macroeconomic shocks”. Although we are unsure how the USDA collected or generated the data, we are sure that a government research organization such as this would be a trustworthy and accurate data source for our project.
 
-### Background Research / Inspiration (5+ sources)
+### Background Research / Inspiration:
 
 #### Netflix Global Expansion:
 * https://variety.com/2023/tv/news/netflix-content-spending-asia-pacific-1235543665/
